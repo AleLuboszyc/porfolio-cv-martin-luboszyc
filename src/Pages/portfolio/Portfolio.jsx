@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from 'react';
 import { portfolio } from '../../data';
-import PortfolioItem from '../../components/PortfolioItem';
+import PortfolioItem from '../../components/PorfolioItem';
 import "./Portfolio.css";
 
 
