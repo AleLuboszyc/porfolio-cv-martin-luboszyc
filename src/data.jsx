@@ -121,7 +121,7 @@ export const personalInfo = [
   {
     id: 11,
     title: 'Idiomas : ',
-    description: 'Actualmente estudiando Ingles técnico',
+    description: 'Actualmente estudiando Ingles Técnico',
   },
 
   {
